@@ -1,7 +1,6 @@
-1. Nama   : Aco Wahyudi<br>
+1. Nama   : Aco Wahyudi
    NIM    : H2020000001
-   
-   JK     : Laki - Laki
+   JK     : Laki - Laki<br>
    
    Agama  : Islam
    
