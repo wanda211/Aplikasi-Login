@@ -1,8 +1,13 @@
-1. Nama   : Aco Wahyudi<br>
-   NIM    : H2020000001<br>
-   JK     : Laki - Laki<br>
-   Agama  : Islam<br>
-   TTL    : Ambon, 19 Agustus 2003<br>
+1. Nama   : Aco Wahyudi
+  
+   NIM    : H2020000001
+   
+   JK     : Laki - Laki
+   
+   Agama  : Islam
+   
+   TTL    : Ambon, 19 Agustus 2003
+   
    Alamat : Jln. Loa Bakung RT.21 No.04
  
 2. Nama   : Erna Mulyani
