@@ -1,5 +1,4 @@
 1. Nama   : Aco Wahyudi
-  
    NIM    : H2020000001
    
    JK     : Laki - Laki
